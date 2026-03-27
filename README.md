@@ -5,7 +5,7 @@ Electrical Engineering Calculator built with Python to perform basic circuit cal
 
 1. Make sure Python is installed
 2. Download or clone this repository
-3. Open the file in a Python IDE (e.g., PyCharm)
+3. Open the file in a Python IDE (PyCharm)
 4. Run the file:
 
 python gui_calculator.py
